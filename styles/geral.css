@@ -1,0 +1,25 @@
+@charset 'utf-8';
+
+@font-face {
+	font-family: AgencyFBbold;
+	src: url('../fonts/agencyb.ttf');
+	font-weight: bold;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-brand {
+	font-family: AgencyFBbold;
+}
+
+.container .jumbotron {
+	background-color: #3c75bb;
+	border-radius: 0;
+}
+
+.jumbotron h1 {
+	color: white;
+	font-family: AgencyFBbold;
+}
